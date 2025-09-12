@@ -23,3 +23,5 @@ Summer semester 2019: Introduction to English Linguistics (tutorial)
 Winter semester 2018/19: Introduction to English Linguistics (tutorial)
 
 Summer semester 2018: Introduction to English Linguistics (tutorial)
+
+<link rel="stylesheet" href="/css/academicons.min.css"/>

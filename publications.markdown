@@ -21,3 +21,5 @@ Kabak, Barış & **Janne Lorenzen** (2020). Paradigm leveling and regularization
 **Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2023). Redundancy and Individual Variability in the Prosodic Marking of Information Status in German. In: R. Skarnitzl, & J. Volín (Eds.) Proceedings of the 20th International Congress of Phonetic Sciences – ICPhS 2023 (pp. 1320-1324). International Phonetic Association. <a href = "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/278.pdf"> Link</a>
 
 **Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Information status and tonal context jointly modulate prosodic prominence relations in German. Proceedings of Speech Prosody 2022, 7-11. <a href = "https://doi.org/10.21437/SpeechProsody.2022-2">https://doi.org/10.21437/SpeechProsody.2022-2</a>
+
+<link rel="stylesheet" href="/css/academicons.min.css"/>

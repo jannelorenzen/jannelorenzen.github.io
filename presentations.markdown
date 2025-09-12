@@ -63,3 +63,5 @@ Kabak, Baris & **Janne Lorenzen** (2022). Grammar-external and structural factor
 **Lorenzen, Janne** (2024). Individual differences and similarities in the prosodic marking of information status in German. Linguistic Colloquium, University of Kiel. 30.04.2024
 
 **Lorenzen, Janne** (2022). Exploring individual variability in prominence production. Phonology Colloquium, University of Frankfurt. 02.11.2022
+
+<link rel="stylesheet" href="/css/academicons.min.css"/>

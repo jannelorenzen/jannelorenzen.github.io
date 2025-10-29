@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "TAI proceedings paper out now"
+date:   2025-10-29 15:45:24 +0200
+---
+
+Our TAI 2025 proceedings paper (co-authored by Stefan Baumann) is out now! You can read it [**here**](https://www.isca-archive.org/tai_2025/lorenzen25_tai.html). In this paper, we combine insights from a production and a perception study to investigate form- and meaning-related aspects of prominence in German. We find that lexical newness and the initial sentence position boost the prosodic prominence of a word in production, while the perception of prominence is crucially influenced by prosodic form, especially accent status, word duration, and pitch accent type, but not by meaning directly.

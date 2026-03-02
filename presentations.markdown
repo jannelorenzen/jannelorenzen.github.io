@@ -6,7 +6,21 @@ permalink: /presentations/
 
 ### Conference presentations
 
-**Lorenzen, Janne**, Stefan Baumann, Nadia Pelageina & Martine Grice (2025). Signalling information status in face-to-face dialogue. PaPE 2025 Workshop on "Multimodal Information Structure and Discourse". Palma de Mallorca, Spain. 25.06.2025
+#### 2026
+
+**Janne Lorenzen**, Jeremy Steffman & Stefan Baumann (accepted). Are pitch accent types more than just phonetic cue bundles? Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+
+Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026 <a href = "https://www.researchgate.net/publication/400723921_Focus_marking_in_L2_German_How_Italian_learners_adjust_their_use_of_prosody_and_syntax">(Preprint)</a>
+
+Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+
+Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language". Cologne, Germany. 23.-24.04.2026
+
+Klymentii Myslyvyi, **Janne Lorenzen**, Fabian Ruttmann, Celine Seufert & Stefan Baumann (2026). Phonetic realization of gestural prominence and beat-likeness: Evidence from a TED Talk in Standard German. Workshop "Visual patterns in the phonetics of gestures", 48th Annual Meeting of the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). Trier, Germany. 25.-27.02.2026
+
+#### 2025
+
+**Lorenzen, Janne**, Stefan Baumann, Nadia Pelageina & Martine Grice (2025). Signalling information status in face-to-face dialogue. PaPE 2025 Workshop "Multimodal Information Structure and Discourse". Palma de Mallorca, Spain. 25.06.2025
 
 Kurumada, Chigusa, **Janne Lorenzen** & Stefan Baumann (2025). More than just the sum of its parts: Prominence perception in increasing context. Poster presentation at 6th Phonetics and Phonology in Europe (PaPE). Palma de Mallorca, Spain. 25.-27.06.2025
 
@@ -14,9 +28,13 @@ Baumann, Stefan & **Janne Lorenzen** (2025). Local and global effects on prosodi
 
 **Lorenzen, Janne** & Stefan Baumann (2025). Form- and meaning-related factors in the production and perception of prominence. Poster presentation at 3rd International Conference on Tone and Intonation (TAI) 2025. Herrsching near Munich, Germany. 16.-18.05.2025 <a href = "https://osf.io/t39uz">(Poster)</a>
 
+#### 2024
+
 **Lorenzen, Janne** & Stefan Baumann (2024). Weighting the effects of prosodic, semantic-pragmatic and syntactic cues on the perception of prominence in German. Poster presentation at CROSSIN: Intonation at the crossroads, Speech Prosody 2024 satellite workshop. Leiden, The Netherlands. 06.07.2024
 
 **Lorenzen, Janne** & Stefan Baumann (2024). Does communicative skill predict individual variability in the prosodic encoding of lexical and referential givenness? Poster presentation at Speech Prosody 2024, Leiden, Netherlands. 02.-05.07.2024 <a href = "https://osf.io/dc7am">(Poster)</a>
+
+#### 2023
 
 **Lorenzen, Janne** (2023). Individual differences in the encoding of discourse-related contrasts via prosodic prominence in German. Voices in Contexts - A workshop on the prosody-pragmatics interface for early career researchers, Cologne, Germany. 12.-13.10.2023
 
@@ -32,6 +50,8 @@ Kabak, Baris & **Janne Lorenzen** (2023). A corpus study of forestressing in Afr
 
 Kabak, Baris & **Janne Lorenzen** (2023). The final word on word-final prominence: Multifarious evidence for stress in Turkish. 8th Workshop on Turkic and Languages in Contact with Turkic (TU+8). Harvard University, USA. 04.-05.03.2023
 
+#### 2022
+
 **Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Individual variability in the prosodic encoding of information status in German. Poster presented at 18. Phonetik und Phonologie im deutschsprachigen Raum (P&P18), University of Bielefeld, Germany. 06.-07.10.2022
 
 Kabak, Baris & **Janne Lorenzen** (2022). Is forestressing in African American English still alive? An empirical investigation using CORAAL. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE 2022), University of Ljubljana, Slovenia. 15.-17.09.2022
@@ -44,9 +64,13 @@ Kabak, Baris & **Janne Lorenzen** (2022). Grammar-external and structural factor
 
 **Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Information status and tonal context jointly modulate prosodic prominence relations in German. Speech Prosody 2022, Lisbon, Portugal.
 
+#### 2021
+
 **Lorenzen, Janne** & Barış Kabak (2021). Forestressing in African American English: Social and Structural Factors. 15. International PAC Conference - Spoken English Varieties: Redefining and Representing Realities, Communities and Norms. University of Toulouse Jean Jaurès, France. 01-03.09.2021
 
 **Lorenzen, Janne** (2021). Full and partial vowel devoicing in Turkish and the role of prosodic prominence. 4th Phonetics and Phonology in Europe. Barcelona. 21.-23.06.2021
+
+#### 2019
 
 **Lorenzen, Janne** & Barış Kabak (2019). Structural factors in the emergence, persistence and regularization of exceptional stress patterns in Turkish. 4. Edinburgh Symposium on Historical Phonology. University of Edinburgh. 09.-10.12.2019
 

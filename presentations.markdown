@@ -8,11 +8,15 @@ permalink: /presentations/
 
 #### 2026
 
+**Janne Lorenzen**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (accepted). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+
+Klymentii Myslyvyi, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (accepted). The contribution of beat-like gestures to the perception of prominence. MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+
 **Janne Lorenzen**, Jeremy Steffman & Stefan Baumann (accepted). Are pitch accent types more than just phonetic cue bundles? Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
 
-Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026 <a href = "https://www.researchgate.net/publication/400723921_Focus_marking_in_L2_German_How_Italian_learners_adjust_their_use_of_prosody_and_syntax">(Preprint)</a>
+Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026 <a href = "https://www.researchgate.net/publication/400723921_Focus_marking_in_L2_German_How_Italian_learners_adjust_their_use_of_prosody_and_syntax">(Preprint)</a>
 
-Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
 
 Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language". Cologne, Germany. 23.-24.04.2026
 

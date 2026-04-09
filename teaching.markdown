@@ -4,6 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### University of Mainz
+
+Summer semester 2026: Contrastive Intonation: German, French & Spanish
+
 ### University of Cologne
 
 Summer semester 2025: Prosodic Analysis

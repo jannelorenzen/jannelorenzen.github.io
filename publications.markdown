@@ -12,9 +12,17 @@ Baumann, Stefan & **Janne Lorenzen** (2024). Boosting or inhibiting - How semant
 
 ### Chapters
 
+Kabak, Barış & **Janne Lorenzen** (to appear). Forestressing in African American English: A corpus study using CORAAL. In: P. Meer and U. Gut (Eds.), *English Corpus Phonetics and Phonology: Current approaches and future directions*. De Gruyter Mouton.
+
 Kabak, Barış & **Janne Lorenzen** (2020). Paradigm leveling and regularization derive variation in stress: A corpus study on Turkish non-final stress at the morphology-phonology interface. In: A. Gürer, D. Uygun Gökmen & B. Öztürk (Eds.), *Morphological complexity within and across boundaries. In honour of Aslı Göksel*, 194-210. Studies in Language Companion Series (SLCS). John Benjamins. <a href = "https://benjamins.com/catalog/slcs.215.07kab">https://doi.org/10.1075/slcs.215.07kab</a>
 
 ### Conference proceedings
+
+**Janne Lorenzen**, Jeremy Steffman & Stefan Baumann (2026). Are pitch accent types more than just phonetic cue bundles? *Proceedings of Speech Prosody 2026*, 1-5. <a href = "https://doi.org/10.21437/SpeechProsody.2026-1">https://doi.org/10.21437/SpeechProsody.2026-1</a>
+
+Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (2026). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. *Proceedings of Speech Prosody 2026*, 199-203. <a href = "https://doi.org/10.21437/SpeechProsody.2026-40">https://doi.org/10.21437/SpeechProsody.2026-40</a>
+
+Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (2026). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. *Proceedings of Speech Prosody 2026*, 559-563. <a href = "https://doi.org/10.21437/SpeechProsody.2026-113">https://doi.org/10.21437/SpeechProsody.2026-113</a>
 
 **Lorenzen, Janne** & Stefan Baumann (2025). Form- and meaning-related factors in the production and perception of prominence. *Proceedings of The Third International Conference on Tone and Intonation*, 10-14. <a href = "https://doi.org/10.21437/TAI.2025-3">https://doi.org/10.21437/TAI.2025-3</a> 
 

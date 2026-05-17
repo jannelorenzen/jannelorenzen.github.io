@@ -14,11 +14,11 @@ Klymentii Myslyvyi, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (accepted
 
 **Janne Lorenzen**, Jeremy Steffman & Stefan Baumann (accepted). Are pitch accent types more than just phonetic cue bundles? Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
 
-Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026 <a href = "https://www.researchgate.net/publication/400723921_Focus_marking_in_L2_German_How_Italian_learners_adjust_their_use_of_prosody_and_syntax">(Preprint)</a>
+Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
 
 Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
 
-Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language". Cologne, Germany. 23.-24.04.2026
+Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (2026). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language". Cologne, Germany. 23.-24.04.2026
 
 Klymentii Myslyvyi, **Janne Lorenzen**, Fabian Ruttmann, Celine Seufert & Stefan Baumann (2026). Phonetic realization of gestural prominence and beat-likeness: Evidence from a TED Talk in Standard German. Workshop "Visual patterns in the phonetics of gestures", 48th Annual Meeting of the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). Trier, Germany. 25.-27.02.2026
 

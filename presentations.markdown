@@ -8,19 +8,27 @@ permalink: /presentations/
 
 #### 2026
 
-**Janne Lorenzen**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (accepted). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+**Janne Lorenzen**, Özce Özceçelik, Mathias Scharinger & Christoph Gabriel (accepted). The perception of French prosody by Turkish learners: a case of positive transfer? Poster presentation at P&P 2026, Jena, Germany. 01.-02.10.2026
 
-Klymentii Myslyvyi, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (accepted). The contribution of beat-like gestures to the perception of prominence. MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (accepted). Cross-linguistic influence in the perception of French prosody: ERP evidence from Turkish learners. Poster presentation at SNL 2026, Geneva, Switzerland. 30.09.-02.10.2026
 
-**Janne Lorenzen**, Jeremy Steffman & Stefan Baumann (accepted). Are pitch accent types more than just phonetic cue bundles? Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+**Lorenzen, Janne**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (accepted). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
 
-Bianca Maria De Paolis, **Janne Lorenzen** & Stefan Baumann (accepted). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+Myslyvyi, Klymentii, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (accepted). The contribution of beat-like gestures to the perception of prominence. MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
 
-Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (accepted). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (accepted). Perception of French prosodic prominence by Turkish L1 learners: An ERP study. Poster presentation at AMLaP 2026, Saarbrücken, Germany. 02.-04.09.2026
 
-Klymentii Myslyvyi, **Janne Lorenzen** & Stefan Baumann (2026). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language". Cologne, Germany. 23.-24.04.2026
+Myslyvyi, Klymentii, **Janne Lorenzen** & Stefan Baumann (2026). Do gestures add or compensate? The interaction of gestural and accentual prominence in a Standard German TED Talk. Linguistics Prague 2026, Prague, Czech Republic. 04.-05.06.2026
 
-Klymentii Myslyvyi, **Janne Lorenzen**, Fabian Ruttmann, Celine Seufert & Stefan Baumann (2026). Phonetic realization of gestural prominence and beat-likeness: Evidence from a TED Talk in Standard German. Workshop "Visual patterns in the phonetics of gestures", 48th Annual Meeting of the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). Trier, Germany. 25.-27.02.2026
+**Lorenzen, Janne**, Jeremy Steffman & Stefan Baumann (2026). Are pitch accent types more than just phonetic cue bundles? Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+
+De Paolis, Bianca Maria, **Janne Lorenzen** & Stefan Baumann (2026). Focus marking in L2 German: How Italian learners adjust their use of prosody and syntax. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+
+Myslyvyi, Klymentii, **Janne Lorenzen** & Stefan Baumann (2026). Multimodal prosody in German - Evidence for the additive nature of gestural and accentual prominence in form and timing. Poster presentation at Speech Prosody 2026, Philadelphia, USA. 26.-29.05.2026
+
+Myslyvyi, Klymentii , **Janne Lorenzen** & Stefan Baumann (2026). Gestural and accentual prominence are cumulative - An exploratory analysis of a German TED Talk. Poster presentation at the Fourth International Conference "Prominence in Language" (ICPL). Cologne, Germany. 23.-24.04.2026
+
+Myslyvyi, Klymentii, **Janne Lorenzen**, Fabian Ruttmann, Celine Seufert & Stefan Baumann (2026). Phonetic realization of gestural prominence and beat-likeness: Evidence from a TED Talk in Standard German. Workshop "Visual patterns in the phonetics of gestures", 48th Annual Meeting of the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). Trier, Germany. 25.-27.02.2026
 
 #### 2025
 
@@ -56,15 +64,15 @@ Kabak, Baris & **Janne Lorenzen** (2023). The final word on word-final prominenc
 
 #### 2022
 
-**Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Individual variability in the prosodic encoding of information status in German. Poster presented at 18. Phonetik und Phonologie im deutschsprachigen Raum (P&P18), University of Bielefeld, Germany. 06.-07.10.2022
+**Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Individual variability in the prosodic encoding of information status in German. Poster presentation at 18. Phonetik und Phonologie im deutschsprachigen Raum (P&P18), University of Bielefeld, Germany. 06.-07.10.2022
 
 Kabak, Baris & **Janne Lorenzen** (2022). Is forestressing in African American English still alive? An empirical investigation using CORAAL. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE 2022), University of Ljubljana, Slovenia. 15.-17.09.2022
 
-**Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Syntagmatic and paradigmatic effects of information status on prosodic prominence relations in German – an online production task. Poster presented at LabPhon18 (virtual conference), 23.-25.06.2022
+**Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Syntagmatic and paradigmatic effects of information status on prosodic prominence relations in German – an online production task. Poster presentation at LabPhon18 (virtual conference), 23.-25.06.2022
 
-Roessig, Simon, **Janne Lorenzen** & Stefan Baumann (2022). Evidence for a prosodic prominence budget in German utterances. Poster presented at 3rd International Conference "Prominence in Language" (ICPL III), University of Cologne, Germany, 02.-03.06.2022
+Roessig, Simon, **Janne Lorenzen** & Stefan Baumann (2022). Evidence for a prosodic prominence budget in German utterances. Poster presentation at 3rd International Conference "Prominence in Language" (ICPL III), University of Cologne, Germany, 02.-03.06.2022
 
-Kabak, Baris & **Janne Lorenzen** (2022). Grammar-external and structural factors predict the rate of forestressing in African American English: A corpus study. Poster presented at 3rd International Conference "Prominence in Language" (ICPL III), University of Cologne, Germany, 02.-03.06.2022
+Kabak, Baris & **Janne Lorenzen** (2022). Grammar-external and structural factors predict the rate of forestressing in African American English: A corpus study. Poster presentation at 3rd International Conference "Prominence in Language" (ICPL III), University of Cologne, Germany, 02.-03.06.2022
 
 **Lorenzen, Janne**, Simon Roessig & Stefan Baumann (2022). Information status and tonal context jointly modulate prosodic prominence relations in German. Speech Prosody 2022, Lisbon, Portugal.
 

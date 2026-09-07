@@ -12,11 +12,11 @@ permalink: /presentations/
 
 Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (accepted). Cross-linguistic influence in the perception of French prosody: ERP evidence from Turkish learners. Poster presentation at SNL 2026, Geneva, Switzerland. 30.09.-02.10.2026
 
-**Lorenzen, Janne**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (accepted). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+**Lorenzen, Janne**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (2026). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026 <a href = "/assets/MMSYM2026_Poster_final.pdf" target = "_blank">(Poster)</a>
 
-Myslyvyi, Klymentii, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (accepted). The contribution of beat-like gestures to the perception of prominence. MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
+Myslyvyi, Klymentii, Alina Gregori, **Janne Lorenzen** & Stefan Baumann (2026). The contribution of beat-like gestures to the perception of prominence. MMSYM 2026, Leuven, Belgium. 09.-11.09.2026
 
-Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (accepted). Perception of French prosodic prominence by Turkish L1 learners: An ERP study. Poster presentation at AMLaP 2026, Saarbrücken, Germany. 02.-04.09.2026
+Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (2026). Perception of French prosodic prominence by Turkish L1 learners: An ERP study. Poster presentation at AMLaP 2026, Saarbrücken, Germany. 02.-04.09.2026
 
 Myslyvyi, Klymentii, **Janne Lorenzen** & Stefan Baumann (2026). Do gestures add or compensate? The interaction of gestural and accentual prominence in a Standard German TED Talk. Linguistics Prague 2026, Prague, Czech Republic. 04.-05.06.2026
 

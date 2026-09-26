@@ -8,9 +8,9 @@ permalink: /presentations/
 
 #### 2026
 
-**Janne Lorenzen**, Özce Özceçelik, Mathias Scharinger & Christoph Gabriel (accepted). The perception of French prosody by Turkish learners: a case of positive transfer? Poster presentation at P&P 2026, Jena, Germany. 01.-02.10.2026
+**Janne Lorenzen**, Özce Özceçelik, Mathias Scharinger & Christoph Gabriel (2026). The perception of French prosody by Turkish learners: a case of positive transfer? Poster presentation at P&P 2026, Jena, Germany. 01.-02.10.2026 <a href = "/assets/P&P2026_poster-18-09-2026.pdf" target = "_blank">(Poster)</a>
 
-Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (accepted). Cross-linguistic influence in the perception of French prosody: ERP evidence from Turkish learners. Poster presentation at SNL 2026, Geneva, Switzerland. 30.09.-02.10.2026
+Özce Özceçelik, **Janne Lorenzen**, Christoph Gabriel & Mathias Scharinger (2026). Cross-linguistic influence in the perception of French prosody: ERP evidence from Turkish learners. Poster presentation at SNL 2026, Geneva, Switzerland. 30.09.-02.10.2026
 
 **Lorenzen, Janne**, Stefan Baumann, Matteo Schmelzer, Nadia Pelageina & Martine Grice (2026). Multimodal marking of information status in unscripted dialogue – lexical form is key. Poster presentation at MMSYM 2026, Leuven, Belgium. 09.-11.09.2026 <a href = "/assets/MMSYM2026_Poster_final.pdf" target = "_blank">(Poster)</a>
 
